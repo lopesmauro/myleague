@@ -25,7 +25,7 @@ export function DialogDemo() {
           <Plus className="mr-2" /> Criar campeonato
         </Button>
       </DialogTrigger>
-      <DialogContent className="text-white sm:max-w-[425px] bg-transparent border border-gray-800">
+      <DialogContent className="text-white sm:max-w-[425px] bg-black border border-gray-800">
         <DialogHeader>
           <DialogTitle>Criar campeonato</DialogTitle>
           <DialogDescription>
