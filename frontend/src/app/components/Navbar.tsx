@@ -1,4 +1,4 @@
-import { Trophy } from 'lucide-react'
+import { Bell, Trophy } from 'lucide-react'
 import { SelectNavbar } from './Select'
 
 const Navbar = () => {
@@ -8,8 +8,9 @@ const Navbar = () => {
                 <Trophy className='w-8 h-8'/>
                 <h1 className='poppins-bold'>MyLeague</h1>
             </div>
-            <div>
+            <div className='flex gap-2 items-center'>
                 <SelectNavbar/>
+                <Bell className=''/>
             </div>    
         </div>
     )

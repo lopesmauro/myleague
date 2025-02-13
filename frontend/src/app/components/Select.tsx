@@ -17,7 +17,7 @@ import {
 export function SelectNavbar() {
   return (
     <Select>
-      <SelectTrigger className="text-white border border-gray-800 w-44">
+      <SelectTrigger className="text-white border border-gray-800 w-44  focus:ring-0 focus:border-gray-800">
         <SelectValue
           placeholder={
             <div className="flex items-center">
