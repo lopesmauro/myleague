@@ -17,7 +17,7 @@ const Tournament = () => {
             </div>
             <div className="flex gap-3">
               <Shield className="text-green-600" />
-              <span>Mata-Mata</span>
+              <span>20 times</span>
             </div>
             <div className="flex gap-3">
               <Calendar className="text-green-600" />
