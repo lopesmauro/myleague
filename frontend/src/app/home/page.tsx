@@ -21,7 +21,7 @@ const Home = () => {
           <div className="flex justify-center">
             <CardTounment />
           </div>
-        </div>
+        </div> 
       </div>
     </div>
   )
